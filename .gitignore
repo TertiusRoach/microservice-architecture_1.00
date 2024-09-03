@@ -1,0 +1,14 @@
+.env
+.wsuo
+.build
+secret.*
+*secret.*
+node_modules
+package.json
+package-*.json
+source/server/
+build/desktop.ini
+public/desktop.ini
+source/desktop.ini
+DocumentLayout.json
+VSWorkspaceState.json
