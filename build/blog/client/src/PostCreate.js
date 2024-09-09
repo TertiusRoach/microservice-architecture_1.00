@@ -20,6 +20,7 @@ export default () => {
           <label>Title</label>
           <input value={title} onChange={(event) => setTitle(event.target.value)} className="form-control"></input>
         </div>
+        <hr />
         <button className="btn btn-primary">Submit</button>
       </form>
     </div>
